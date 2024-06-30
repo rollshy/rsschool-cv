@@ -51,3 +51,11 @@ ____________
 </body>
 </html>
 ```
+****************************************
+**LANGUAGES**
+
+**English** - B1 | **Russian** - Native
+_______________________
+**EXPERIENCE**
+
+I'm trying to complete the this CV task

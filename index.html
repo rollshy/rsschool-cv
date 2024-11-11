@@ -61,9 +61,14 @@
         </section>
         <section id="code">
             <h2>Code example</h2>
-            <pre><code> const square = (num) => {
-                return num * num;
-              };</code></pre>
+            <pre><code> const square = {
+               brand: 'Ford',
+               model: 'Fiesta',
+               start: function() {
+                  console.log(`Started ${this.brand} ${this.model}`)
+        }
+    }
+            </code></pre>
         </section>
         <section id="contacts" class="concats">
         <h2>Contacts</h2>
